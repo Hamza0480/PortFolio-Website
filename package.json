@@ -1,0 +1,17 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "A multi-page static portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "lint": "htmlhint \"**/*.html\" && stylelint \"**/*.css\""
+  },
+  "devDependencies": {
+    "htmlhint": "^0.14.3",
+    "stylelint": "^15.0.0",
+    "stylelint-config-standard": "^24.0.0"
+  },
+  "author": "Hamza Azfar",
+  "license": "ISC",
+  "keywords": []
+}
