@@ -1,1 +1,33 @@
-nothing
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store        # macOS
+Thumbs.db         # Windows
+
+# IDE files (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Configuration files for linters (if you want to keep them tracked, ignore them if not)
+.stylelintrc.json
+.htmlhintrc.json
+
+# YAML file (only if you don't need to track it in Git)
+*.yaml
+*.yml
+
+# Build directories (if applicable)
+dist/
+build/
+
+# Temporary files (e.g., from editors or OS)
+*.swp
+*.swo
+*.tmp
